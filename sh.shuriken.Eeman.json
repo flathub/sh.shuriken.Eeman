@@ -90,8 +90,8 @@
                 {
                     "type" : "git",
                     "url" : "https://codeberg.org/SHuRiKeN/Eeman",
-                    "tag" : "0.1.0",
-                    "commit" : "ca62737d639ccf66996415741ade577763b55bb1"
+                    "tag" : "0.1.1",
+                    "commit" : "ca18f235476dddf19605ac736145fde80e5ea1e9"
                 }
             ]
         }
